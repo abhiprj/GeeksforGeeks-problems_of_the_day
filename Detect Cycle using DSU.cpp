@@ -1,4 +1,5 @@
 class solution
+
 {
     public:
     vector<int> dsu;
