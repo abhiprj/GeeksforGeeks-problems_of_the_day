@@ -12,3 +12,4 @@ public:
         return even == v ? 2 : (odd > 0 && odd == 2);
     }
 };
+
