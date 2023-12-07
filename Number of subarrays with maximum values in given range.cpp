@@ -14,7 +14,6 @@ public:
 
             out += range;
         }
-        
         return out;
     }
 };
