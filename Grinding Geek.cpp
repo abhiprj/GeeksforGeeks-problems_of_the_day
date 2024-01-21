@@ -1,6 +1,5 @@
 class Solution{
     public:
-
     int t[1002][1002];
     
     int countMax(int i, int n, int amount, vector<int> &cost){
