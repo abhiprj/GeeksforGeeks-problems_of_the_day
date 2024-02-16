@@ -1,4 +1,7 @@
-/*Structure of the Node of the BST is as
+
+
+
+//*Structure of the Node of the BST is as
 struct Node
 {
     int data;
