@@ -1,6 +1,5 @@
 
 
-
 //*Structure of the Node of the BST is as
 struct Node
 {
