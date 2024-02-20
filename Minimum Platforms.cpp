@@ -8,7 +8,6 @@
 
 
 
-
 class Solution{
     public:
     //Function to find the minimum number of platforms required at the
