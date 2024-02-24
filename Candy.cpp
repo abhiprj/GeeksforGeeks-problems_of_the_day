@@ -1,7 +1,6 @@
 
 
 
-
 class Solution {
 public:
     int minCandy(int N, vector<int> &ratings) {
