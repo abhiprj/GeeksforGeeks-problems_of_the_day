@@ -1,4 +1,3 @@
-
 class Solution{
   public:
     // your task is to complete this function
