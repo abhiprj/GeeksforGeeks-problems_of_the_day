@@ -1,4 +1,3 @@
-
 class Solution{
 public:
 	bool recreationalSpot(int arr[], int n){
