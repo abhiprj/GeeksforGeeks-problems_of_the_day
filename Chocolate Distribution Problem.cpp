@@ -1,3 +1,9 @@
+
+
+
+
+
+
 class Solution {
 public:
     long long findMinDiff(vector<long long> a, long long n, long long m) {
