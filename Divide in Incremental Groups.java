@@ -1,6 +1,5 @@
 
 
-
 class Solution {
     static int cnt;
     public int countWaystoDivide(int N, int K) {
