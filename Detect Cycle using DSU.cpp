@@ -1,5 +1,4 @@
 
-
 class solution
 {
     public:
